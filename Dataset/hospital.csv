@@ -1,0 +1,101 @@
+ HospitalID, HospitalName, LocationID, EmergencyResponseTime, Capacity
+1, City General Hospital,1,10,200
+2, Downtown Medical Center,2,8,150
+3, St. Mary’s Hospital,3,12,180
+4, Sunrise Trauma Center,4,15,220
+5, Metro Emergency Hospital,5,9,170
+6, Riverside Hospital,6,14,190
+7, Greenwood Health Clinic,7,7,120
+8, Community Care Hospital,8,10,160
+9, Westside Medical Center,9,11,140
+10, Hope Regional Hospital,10,13,200
+11, Valley View Hospital,11,9,180
+12, Eastside Trauma Center,12,12,250
+13, Hilltop Medical Center,13,8,190
+14, Harborview Hospital,14,14,220
+15, Pinecrest General Hospital,15,10,160
+16, Springfield Medical Center,16,11,180
+17, Crestwood Emergency Center,17,15,210
+18, Northern Plains Hospital,18,12,170
+19, Silverlake Community Hospital,19,9,140
+20, Grandview Medical Center,20,10,200
+21, Redwood Regional Hospital,21,11,160
+22, Summit View Hospital,22,13,190
+23, New Hope Hospital,23,8,180
+24, Central City Health Clinic,24,14,200
+25, Lakeside Emergency Center,25,9,170
+26, Southgate Trauma Center,26,11,210
+27, Beacon Hill Hospital,27,10,180
+28, Meadowlands General Hospital,28,12,190
+29, Northgate Medical Center,29,14,220
+30, Evergreen Community Hospital,30,9,150
+31, Unity Health Hospital,31,8,130
+32, Skyline Regional Medical,32,10,140
+33, Horizon Trauma Hospital,33,15,230
+34, Bayview Medical Center,34,13,180
+35, Woodland Hills Hospital,35,11,200
+36, Oakwood General Hospital,36,12,150
+37, Birchfield Medical Center,37,14,190
+38, Cedar Springs Hospital,38,9,170
+39, Elmwood Trauma Center,39,10,160
+40, Maple Grove Emergency Hospital,40,12,180
+41, Heritage Valley Hospital,41,14,250
+42, Westbrook General Hospital,42,11,190
+43, Clearwater Health Center,43,9,140
+44, Silvercrest Regional Hospital,44,10,200
+45, Oakridge Medical Center,45,12,180
+46, Sunset Valley Hospital,46,14,220
+47, Riverbend Emergency Hospital,47,13,210
+48, Starlight Medical Center,48,11,190
+49, Bayshore Trauma Center,49,10,160
+50, Willow Creek Community Hospital,50,9,170
+51, Summit Ridge Hospital,51,12,180
+52, Parkside General Hospital,52,14,190
+53, Lakewood Regional Medical Center,53,11,140
+54, Pine Valley Hospital,54,9,130
+55, Shady Grove Medical Center,55,10,150
+56, Garden City Health Clinic,56,12,180
+57, Everest Heights Hospital,57,14,200
+58, Stonebridge Trauma Hospital,58,15,210
+59, Windsor General Hospital,59,10,160
+60, Brookside Medical Center,60,9,180
+61, Sunflower Regional Hospital,61,12,190
+62, Mountain View Trauma Center,62,13,230
+63, Hillcrest Community Hospital,63,14,200
+64, Aspen Ridge Medical Center,64,11,170
+65, Timberland General Hospital,65,9,160
+66, Highland Springs Hospital,66,10,150
+67, Glenwood Health Center,67,12,180
+68, Oceanview Medical Center,68,14,220
+69, Morningstar Emergency Hospital,69,13,210
+70, Pebble Creek Trauma Center,70,11,190
+71, Ironwood Regional Medical Center,71,9,180
+72, Crystal Lake Hospital,72,10,140
+73, Hillside General Hospital,73,12,200
+74, Shadow Creek Medical Center,74,14,190
+75, Glacier Point Hospital,75,11,180
+76, Whispering Pines Hospital,76,9,150
+77, Stormhaven Medical Center,77,10,170
+78, Meadowbrook Emergency Hospital,78,12,180
+79, Everglades Regional Hospital,79,14,200
+80, Sierra Heights Hospital,80,11,210
+81, Golden Valley Health Clinic,81,9,180
+82, Willowbrook Trauma Center,82,10,140
+83, Northstar General Hospital,83,12,190
+84, Eagle Crest Medical Center,84,14,200
+85, Harvest Ridge Hospital,85,11,150
+86, Bluebell Regional Hospital,86,9,180
+87, Prairie View Medical Center,87,10,170
+88, Cloudpeak Trauma Hospital,88,12,220
+89, Fox Hollow General Hospital,89,14,200
+90, Granite Falls Medical Center,90,11,210
+91, Autumn Grove Hospital,91,9,150
+92, Wildflower Heights Hospital,92,10,170
+93, Cottonwood Regional Hospital,93,12,190
+94, Rockridge Emergency Hospital,94,14,220
+95, Fernwood Community Hospital,95,11,180
+96, Ivy Ridge Medical Center,96,9,150
+97, Snowcap Regional Hospital,97,10,170
+98, Thunder Valley Trauma Center,98,12,200
+99, Maple Ridge General Hospital,99,14,210
+100, Aspenwood Health Clinic,100,11,190

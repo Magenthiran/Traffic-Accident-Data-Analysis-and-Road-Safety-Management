@@ -1,0 +1,101 @@
+VehicleID, AccidentID, VehicleType, VehicleMake, VehicleModel, VehicleYear, OwnerID, DriverAge, DriverGender, LicenseStatus, InsuranceStatus 
+1,1, Car, Toyota, Camry,2018,1,32, Male, Valid, Active
+2,2, Truck, Ford, F-150,2020,2,45, Male, Valid, Active
+3,3, Bike, Honda, CBR500R,2019,3,28, Female, Valid, Active
+4,4, Bus, Mercedes, Sprinter,2017,4,50, Male, Expired, Expired
+5,5, Car, Chevrolet, Malibu,2016,5,37, Female, Valid, Active
+6,6, Car, BMW, X5,2021,6,30, Male, Valid, Active
+7,7, Truck, Ram,1500,2015,7,55, Male, Valid, None
+8,8, Bike, Yamaha, YZF-R3,2020,8,23, Female, Valid, Active
+9,9, Car, Nissan, Altima,2018,9,41, Male, Suspended, Expired
+10,10, Bus, Volvo, B9R,2019,10,48, Female, Valid, Active
+11,11, Car, Tesla, Model 3,2022,11,29, Male, Valid, Active
+12,12, Truck, GMC, Sierra,2017,12,52, Male, Valid, Active
+13,13, Bike, Suzuki, GSX-R600,2018,13,26, Female, Valid, Active
+14,14, Car, Hyundai, Elantra,2015,14,36, Male, Expired, Expired
+15,15, Car, Ford, Mustang,2020,15,33, Female, Valid, Active
+16,16, Truck, Chevrolet, Silverado,2019,16,47, Male, Suspended, None
+17,17, Bike, Harley-Davidson, Sportster,2016,17,40, Male, Valid, Active
+18,18, Car, Honda, Civic,2017,18,31, Female, Valid, Active
+19,19, Bus, MAN, Lion’s Coach,2021,19,50, Male, Valid, Expired
+20,20, Car, Kia, Sorento,2019,20,39, Female, Valid, Active
+21,21, Truck, Toyota, Tundra,2022,21,55, Male, Valid, Active
+22,22, Bike, Ducati, Panigale,2020,22,28, Female, Valid, Active
+23,23, Car, Mazda, CX-5,2018,23,34, Male, Expired, None
+24,24, Car, Audi, Q7,2017,24,37, Female, Valid, Active
+25,25, Truck, Isuzu, D-Max,2019,25,49, Male, Valid, Active
+26,26, Bike, Kawasaki, Ninja 650,2016,26,27, Female, Valid, Expired
+27,27, Car, Lexus, RX 350,2021,27,30, Male, Valid, Active
+28,28, Bus, Scania, Citywide,2015,28,51, Male, Valid, None
+29,29, Car, Volkswagen, Passat,2018,29,38, Female, Valid, Active
+30,30, Truck, Mitsubishi, Canter,2017,30,46, Male, Suspended, Expired
+31,31, Bike, Aprilia, RSV4,2020,31,25, Female, Valid, Active
+32,32, Car, Jaguar, F-Pace,2022,32,32, Male, Valid, Active
+33,33, Car, Tesla, Model X,2021,33,41, Male, Valid, Active
+34,34, Truck, Tata, Prima,2019,34,53, Male, Valid, Active
+35,35, Bike, Royal Enfield, Classic 350,2018,35,29, Female, Valid, Active
+36,36, Car, Porsche, Cayenne,2017,36,35, Male, Valid, Active
+37,37, Truck, Hino, 500 Series,2020,37,50, Male, Valid, Active
+38,38, Car, Chevrolet, Equinox,2016,38,42, Female, Expired, None
+39,39, Bike, BMW, S1000RR,2021,39,24, Male, Valid, Active
+40,40, Car, Subaru, Outback,2019,40,31, Female, Valid, Active
+41,41, Car, Ferrari,488,2020,41,37, Male, Valid, Active
+42,42, Car, Ferrari,488,2020,42,37, Male, Valid, Active
+43,43, Truck, Volvo, FH16,2018,43,55, Male, Valid, Active
+44,44, Bike, Honda, CB500X,2019,44,28, Female, Valid, Active
+45,45, Car, Toyota, RAV4,2017,45,32, Male, Expired, Expired
+46,46, Bus, Mercedes, Tourismo,2016,46,51, Male, Valid, Active
+47,47, Car, Hyundai, Tucson,2021,47,34, Female, Valid, Active
+48,48, Truck, Scania, R Series,2020,48,53, Male, Valid, Active
+49,49, Bike, Ducati, Monster,2019,49,26, Female, Valid, Active
+50,50, Car, Ford, Explorer,2015,50,39, Male, Suspended, None
+51,51, Car, Mazda, MX-5,2018,51,31, Female, Valid, Active
+52,52, Truck, MAN, TGS,2017,52,57, Male, Valid, Active
+53,53, Bike, Kawasaki, Versys 650,2020,53,30, Female, Valid, Active
+54,54, Car, Jeep, Wrangler,2022,54,35, Male, Valid, Active
+55,55, Car, BMW, 3 Series,2016,55,40, Female, Valid, Active
+56,56, Truck, Tata, Ultra,2019,56,60, Male, Expired, None
+57,57, Bike, Royal Enfield, Interceptor,2018,57,29, Female, Valid, Active
+58,58, Car, Porsche, Macan,2017,58,42, Male, Valid, Active
+59,59, Truck, Isuzu, N Series,2016,59,58, Male, Valid, Active
+60,60, Car, Volkswagen, Golf,2019,60,33, Female, Valid, Active
+61,61, Car, Tesla, Model S,2021,61,37, Male, Valid, Active
+62,62, Truck, Freightliner, Coronado,2020,62,59, Male, Valid, Active
+63,63, Bike, Aprilia, Tuono V4,2018,63,27, Female, Valid, Active
+64,64, Car, Subaru, Forester,2017,64,38, Male, Valid, Active
+65,65, Car, Chevrolet, Tahoe,2015,65,41, Female, Suspended, None
+66,66, Truck, Hino, 700 Series,2019,66,61, Male, Valid, Active
+67,67, Bike, Harley-Davidson, Fat Bob,2016,67,31, Male, Valid, Active
+68,68, Car, Nissan, Maxima,2018,68,36, Female, Valid, Active
+69,69, Bus, Setra, S 417,2020,69,55, Male, Valid, Active
+70,70, Car, Toyota, Highlander,2017,70,39, Female, Valid, Active
+71,71, Truck, GMC, Canyon,2021,71,62, Male, Valid, Active
+72,72, Bike, Suzuki, V-Strom,2019,72,29, Female, Valid, Active
+73,73, Car, Honda, Accord,2015,73,34, Male, Expired, Expired
+74,74, Car, Ford, Escape,2020,74,32, Female, Valid, Active
+75,75, Truck, Dodge, Ram 2500,2019,75,56, Male, Valid, None
+76,76, Bike, Triumph, Tiger 900,2016,76,28, Male, Valid, Active
+77,77, Car, Hyundai, Santa Fe,2017,77,30, Female, Valid, Active
+78,78, Car, Audi, A6,2018,78,40, Male, Valid, Active
+79,79, Truck, Kenworth, T880,2020,79,63, Male, Valid, Active
+80,80, Car, Kia, Sportage,2019,80,38, Female, Valid, Active
+81,81, Car, Mercedes, C-Class,2021,81,35, Male, Valid, Active
+82,82, Truck, Peterbilt,579,2018,82,64, Male, Valid, Active
+83,83, Bike, BMW, F 900 R,2017,83,26, Female, Valid, Active
+84,84, Car, Tesla, Cybertruck,2023,84,32, Male, Valid, Active
+85,85, Car, Jaguar, XF,2016,85,37, Female, Valid, Active
+86,86, Truck, IVECO, Stralis,2019,86,65, Male, Valid, Active
+87,87, Bike, Yamaha, MT-07,2020,87,28, Female, Valid, Active
+88,88, Car, Volkswagen, Jetta,2018,88,39, Male, Expired, None
+89,89, Bus, Marcopolo, G7,2017,89,50, Male, Valid, Active
+90,90, Car, Chevrolet, Impala,2015,90,41, Female, Valid, Active
+91,91, Truck, Western Star, 49X,2021,91,66, Male, Valid, Active
+92,92, Bike, Harley-Davidson, Street Glide,2016,92,30, Male, Valid, Active
+93,93, Car, Subaru, WRX,2020,93,33, Female, Valid, Active
+94,94, Car, Ford, Bronco,2021,94,37, Male, Valid, Active
+95,95, Truck, Mack, Anthem,2019,95,67, Male, Valid, Active
+96,96, Car, Lexus, LS,2018,96,35, Female, Valid, Active
+97,97, Car, Cadillac, Escalade,2017,97,40, Male, Valid, Active
+98,98, Truck, Renault, T-Series,2015,98,68, Male, Valid, Active
+99,99, Bike, KTM, Duke 390,2020,99,27, Female, Valid, Active
+100,100, Truck, Freightliner, Cascadia,2015,100,60, Male, Suspended, None

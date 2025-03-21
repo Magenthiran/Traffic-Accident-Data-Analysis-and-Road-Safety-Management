@@ -1,0 +1,102 @@
+OwnerID, FullName, PhoneNumber, LicenseNumber, InsuranceCompany ,Address
+1, John Doe,5551234, DL123456, Allstate, 123 Main St Los Angeles CA
+2, Jane Smith,5555678, DL789012, Geico, 456 Elm St New York NY
+3, Robert Johnson,5559012, DL345678, State Farm, 789 Oak St Chicago IL
+4, Emily Davis,5553456, DL901234, Progressive, 321 Pine St Houston TX
+5, Michael Brown,5557890, DL567890, Liberty Mutual, 654 Cedar St Phoenix AZ
+6, Sarah Wilson,5552345, DL112233, Nationwide, 987 Birch St Philadelphia PA
+7, David Martinez,5556789, DL445566, Farmers, 741 Maple St San Antonio TX
+8, Emma Garcia,5550123, DL778899, USAA, 852 Walnut St San Diego CA
+9, James Rodriguez,5554567, DL998877, Travelers, 963 Spruce St Dallas TX
+10, Sophia Lee,5558901, DL223344, MetLife, 147 Chestnut St San Jose CA
+11, Daniel White,5556781, DL556677, The General, 258 Aspen St Austin TX
+12, Olivia Harris,5554321, DL889900, Erie Insurance, 369 Redwood St Jacksonville FL
+13, Liam Thompson,5558765, DL334455, AAA, 123 Cypress St San Francisco CA
+14, Isabella Robinson,5553457, DL667788, American Family, 456 Magnolia St Indianapolis IN
+15, William Clark,5556543, DL112244, The Hartford, 789 Poplar St Columbus OH
+16, Mia Lewis,5559087, DL223355, Amica, 321 Sequoia St Charlotte NC
+17, Alexander Walker,5551098, DL556688, Safeco, 654 Dogwood St Fort Worth TX
+18, Charlotte Allen,5552109, DL889911, Esurance, 987 Beech St Detroit MI
+19, Benjamin Young,5553210, DL334466, Hanover, 741 Mahogany St El Paso TX
+20, Amelia Hall,5554325, DL667799, American Modern, 852 Hickory St Boston MA
+21, Lucas King,5555432, DL223366, Cincinnati Insurance, 963 Juniper St Memphis TN
+22, Evelyn Scott,5556541, DL556699, Country Financial, 147 Sycamore St Denver CO
+23, Mason Green,5557654, DL889922, Plymouth Rock, 258 Alder St Baltimore MD
+24, Harper Adams,5558763, DL334477, The Hanover, 369 Fir St Louisville KY
+25, Elijah Baker,5559876, DL667700, Elephant, 123 Elm St Milwaukee WI
+26, Abigail Nelson,5553452, DL112255, Clearcover, 456 Oak St Albuquerque NM
+27, Henry Carter,5556549, DL223377, Safe Auto, 789 Pine St Tucson AZ
+28, Sofia Perez,5559870, DL556700, Direct Auto, 321 Cedar St Fresno CA
+29, Sebastian Torres,5552108, DL889933, Dairyland, 654 Birch St Sacramento CA
+30, Avery Murphy,5554328, DL334488, Infinity, 987 Maple St Kansas City MO
+31, Jack Reed,5558768, DL667711, Acceptance, 741 Chestnut St Atlanta GA
+32, Scarlett Cook,5552102, DL223388, Gainsco, 852 Spruce St Omaha NE
+33, Daniel Parker,5553216, DL556711, Safeway, 963 Aspen St Miami FL
+34, Lillian Bennett,5557650, DL889944, The General, 147 Redwood St Cleveland OH
+35, Wyatt Sanders,5556547, DL334499, Amigo, 258 Cypress St Virginia Beach VA
+36, Chloe Long,5557659, DL667722, Bristol West, 369 Magnolia St Oakland CA
+37, Nathan Rivera,5559872, DL112266, Commonwealth, 123 Poplar St Minneapolis MN
+38, Madison Gray,5552104, DL223399, Titan, 456 Sequoia St Tulsa OK
+39, Oliver Foster,5556546, DL556722, Farm Bureau, 789 Dogwood St New Orleans LA
+40, Ella Simmons,5558761, DL889955, Founders, 321 Beech St Wichita KS
+41, Ethan Butler,5554326, DL334500, Hugo, 654 Mahogany St Arlington TX
+42, Grace Howard,5552101, DL667733, Markel, 987 Hickory St Tampa FL
+43, James Wood,5553217, DL223400, Mercury, 741 Juniper St Aurora CO
+44, Victoria Ramirez,5557657, DL556733, Motion Auto, 852 Sycamore St Bakersfield CA
+45, Owen Brooks,5558762, DL889966, Oklahoma Farm Bureau, 963 Alder St Honolulu HI
+46, Layla Bell,5554324, DL334511, Patriot, 147 Fir St Anaheim CA
+47, Gabriel Watson,5557656, DL667744, Suncoast, 258 Elm St St. Louis MO
+48, Zoe Alexander,5559875, DL112277, Trexis, 369 Oak St Pittsburgh PA
+49, Matthew Jenkins,5552103, DL223411, UFG, 123 Pine St Cincinnati OH
+50, Penelope Perry,5556542, DL556744, Western National, 456 Cedar St Riverside CA
+51, Jackson Barnes,5557658, DL889977, Wolverine, 789 Birch St Corpus Christi TX
+52, Aubrey Powell,5558764, DL334522, 21st Century, 321 Maple St Lexington KY
+53, Luke Hayes,5554323, DL667755, Auto-Owners, 654 Chestnut St Anchorage AK
+54, Hannah Russell,5552100, DL223422, Bristol West, 987 Spruce St Stockton CA
+55, Carter Griffin,5553215, DL556755, Elephant, 741 Aspen St St. Paul MN
+56, Natalie Ross,5557655, DL889988, GAINSCO, 852 Redwood St Henderson NV
+56, Isaac Griffin,5558769, DL334533, Direct Auto, 369 Cypress St Newark NJ
+57, Lily Ward,5555436, DL667766, Infinity, 123 Magnolia St Lincoln NE
+58, Julian Hughes,5552347, DL223433, National General, 456 Poplar St Greensboro NC
+59, Violet Patterson,5559871, DL556766, Root Insurance, 789 Sequoia St Buffalo NY
+60, Levi Coleman,5551097, DL889999, Safe Auto, 321 Dogwood St Plano TX
+61, Stella Rivera,5552106, DL334544, The General, 654 Beech St Henderson NV
+62, Aaron Foster,5553214, DL667777, Travelers, 987 Mahogany St Fort Wayne IN
+63, Lydia Simmons,5558760, DL223444, USAA, 741 Hickory St St. Petersburg FL
+64, Eli Powell,5556545, DL556777, MetLife, 852 Juniper St Chula Vista CA
+65, Hazel Brooks,5557652, DL889900, Farmers, 963 Sycamore St Norfolk VA
+66, Theodore Jenkins,5554329, DL334555, AAA, 147 Alder St Chandler AZ
+67, Aurora Perry,5552107, DL667788, Amica, 258 Fir St Laredo TX
+68, Miles Cooper,5553213, DL223455, Hanover, 369 Elm St Winston-Salem NC
+69, Bella Murphy,5559874, DL556788, Cincinnati Insurance, 123 Oak St Baton Rouge LA
+70, Connor Ward,5556544, DL889911, Plymouth Rock, 456 Pine St Durham NC
+71, Lillian Torres,5557653, DL334566, Country Financial, 789 Cedar St Lubbock TX
+72, Adrian Reed,5558767, DL667799, Elephant, 321 Birch St Garland TX
+73, Clara Bennett,5554322, DL223466, Esurance, 654 Maple St Reno NV
+74, Hudson Ross,5552105, DL556799, Direct Auto, 987 Chestnut St Hialeah FL
+75, Ellie Butler,5553212, DL889922, Infinity, 741 Spruce St Madison WI
+76, Zachary Scott,5557651, DL334577, Gainsco, 852 Aspen St Chesapeake VA
+77, Ivy Howard,5558766, DL667811, Safeco, 963 Redwood St Fremont CA
+78, Adam Russell,5554320, DL223477, The Hartford, 147 Cypress St Irvine CA
+79, Paisley King,5552100, DL556811, American Family, 258 Magnolia St Birmingham AL
+80, Xavier Rivera,5553211, DL889933, Commonwealth, 369 Poplar St Rochester NY
+81, Ayla Cook,5556540, DL334588, Bristol West, 123 Sequoia St Richmond VA
+82, Dominic Bell,5559873, DL667822, Farm Bureau, 456 Dogwood St Spokane WA
+83, Melody Parker,5557650, DL223488, Safe Auto, 789 Beech St Des Moines IA
+84, Emmett Watson,5558765, DL556822, Mercury, 321 Mahogany St Modesto CA
+85, Elise Hayes,5554325, DL889944, Patriot, 654 Hickory St Fayetteville NC
+86, Nathaniel Brooks,5552102, DL334599, Motion Auto, 987 Juniper St Montgomery AL
+87, Madeline Alexander,5553210, DL667833, Suncoast, 741 Sycamore St Shreveport LA
+88, Ezekiel Perry,5557655, DL223499, Trexis, 852 Alder St Akron OH
+89, Josephine Jenkins,5558762, DL556833, UFG, 963 Fir St Tacoma WA
+90, Caleb Murphy,5554324, DL889955, Western National, 147 Elm St Aurora IL
+91, Vivian Coleman,5552101, DL334600, Wolverine, 258 Oak St Yonkers NY
+92, Asher Barnes,5553219, DL667844, 21st Century, 369 Pine St Huntsville AL
+93, Lucy Powell,5559870, DL223511, Auto-Owners, 123 Cedar St Salt Lake City UT
+94, Jasper Russell,5557654, DL556844, Bristol West, 456 Birch St Grand Rapids MI
+95, Delilah Simmons,5558763, DL889966, Elephant, 789 Maple St Chattanooga TN
+96, Easton Hughes,5554321, DL334611, Gainsco, 321 Chestnut St Providence RI
+97, Faith Perry,5552104, DL667855, Safeway, 654 Spruce St Brownsville TX
+98, Gavin Foster,5553218, DL223522, The General, 987 Aspen St Jackson MS
+99, Serenity Butler,5559872, DL556855, Erie Insurance, 741 Redwood St Overland Park KS
+100, Bentley Robinson,5557657, DL889977, Dairyland, 852 Cypress St Springfield MO

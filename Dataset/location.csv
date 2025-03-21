@@ -1,0 +1,101 @@
+LocationID, Street, City, District, State, Latitude, Longitude, AccidentHotspot 
+1, Main St, Los Angeles, Central LA, California,34.052235,-118.243683,1
+2, Elm St, New York, Manhattan, New York,40.712776,-74.005974,0
+3, Sunset Blvd, Los Angeles, West Hollywood, California,34.098503,-118.326744,1
+4, Broadway, New York, Manhattan, New York,40.759011,-73.984472,0
+5, Market St, San Francisco, Downtown, California,37.774929,-122.419416,1
+6, Michigan Ave, Chicago, Downtown, Illinois,41.881832,-87.623177,0
+7, Ocean Dr, Miami, South Beach, Florida,25.780397,-80.130449,1
+8, Lombard St, San Francisco, North Beach, California,37.802139,-122.41874,0
+9, Hollywood Blvd, Los Angeles, Hollywood, California,34.101558,-118.340944,1
+10, Beale St, Memphis, Downtown, Tennessee,35.141758,-90.053769,0
+11, Bourbon St, New Orleans, French Quarter, Louisiana,29.958443,-90.065377,1
+12, Rodeo Dr, Beverly Hills, Westside, California,34.067463,-118.401271,0
+13, 5th Ave, New York, Midtown, New York,40.774312,-73.965897,1
+14, Peachtree St, Atlanta, Downtown, Georgia,33.749099,-84.390185,0
+15, Magnolia Ave, Orlando, Downtown, Florida,28.538336,-81.379234,1
+16, Pennsylvania Ave, Washington, Capitol Hill, DC,38.879198,-76.981843,0
+17, Boylston St, Boston, Back Bay, Massachusetts,42.349564,-71.081486,1
+18, South St, Philadelphia, Society Hill, Pennsylvania,39.941376,-75.150732,0
+19, King St, Charleston, Downtown, South Carolina,32.784618,-79.940918,1
+20, Biscayne Blvd, Miami, Downtown, Florida,25.777661,-80.189004,0
+21, Duvall St, Key West, Old Town, Florida,24.55828,-81.805442,1
+22, Wilshire Blvd, Los Angeles, Westwood, California,34.06274,-118.44985,0
+23, Union Square, San Francisco, Union Square, California,37.787994,-122.407437,1
+24, Santa Monica Blvd, Santa Monica, Downtown, California,34.015134,-118.490311,0
+25, Mulholland Dr, Los Angeles, Hollywood Hills, California,34.120509,-118.380238,1
+26, Pine St, Seattle, Downtown, Washington,47.61151,-122.337254,1
+27, Fremont St, Las Vegas, Downtown, Nevada,36.17027,-115.144403,0
+28, Bourbon St, New Orleans, French Quarter, Louisiana,29.958443,-90.065377,1
+29, Beale St, Memphis, Downtown, Tennessee,35.141758,-90.053769,0
+30, South St, Philadelphia, Society Hill, Pennsylvania,39.941376,-75.150732,1
+31, King St, Charleston, Downtown, South Carolina,32.784618,-79.940918,0
+32, Biscayne Blvd, Miami, Downtown, Florida,25.777661,-80.189004,1
+33, Duvall St, Key West, Old Town, Florida,24.55828,-81.805442,0
+34, Wilshire Blvd, Los Angeles, Westwood, California,34.06274,-118.44985,1
+35, Union Square, San Francisco, Union Square, California,37.787994,-122.407437,0
+36, Santa Monica Blvd, Santa Monica, Downtown, California,34.015134,-118.490311,1
+37, Mulholland Dr, Los Angeles, Hollywood Hills, California,34.120509,-118.380238,0
+38, Pacific Hwy, San Diego, Waterfront, California,32.71418,-117.174169,1
+39, Rodeo Dr, Beverly Hills, Westside, California,34.067463,-118.401271,0
+40, Laurel Canyon Blvd, Los Angeles, Hollywood Hills, California,34.125545,-118.371308,1
+41, Park Ave, New York, Upper East Side, New York,40.764356,-73.969286,0
+42, Las Olas Blvd, Fort Lauderdale, Downtown, Florida,26.1193,-80.1361,1
+43, Ventura Blvd, Los Angeles, San Fernando Valley, California,34.15047,-118.449255,0
+44, Ocean Ave, Santa Monica, Downtown, California,34.008611,-118.497222,1
+45, Melrose Ave, Los Angeles, Hollywood, California,34.083818,-118.341103,0
+46, Central Park West, New York, Upper West Side, New York,40.771133,-73.974187,1
+47, Castro St, San Francisco, Castro, California,37.762749,-122.435769,0
+48, Geary Blvd, San Francisco, Richmond District, California,37.781575,-122.470299,1
+49, Columbus Ave, San Francisco, North Beach, California,37.799525,-122.407123,0
+50, Hollywood Blvd, Los Angeles, Hollywood, California,34.101558,-118.340944,1
+51, Kearny St, San Francisco, Financial District, California,37.790808,-122.404129,0
+52, The Embarcadero, San Francisco, Downtown, California,37.79549,-122.393071,1
+53, California St, San Francisco, Financial District, California,37.792147,-122.40146,0
+54, Mission St, San Francisco, SoMa, California,37.787471,-122.396167,1
+55, Broad St, Philadelphia, Center City, Pennsylvania,39.952583,-75.165222,0
+56, Lombard St, San Francisco, North Beach, California,37.802139,-122.41874,1
+57, King St, San Francisco, South Beach, California,37.776405,-122.393182,0
+58, Folsom St, San Francisco, SoMa, California,37.783238,-122.396486,1
+59, Harrison St, San Francisco, SoMa, California,37.786438,-122.394855,0
+60, Van Ness Ave, San Francisco, Civic Center, California,37.792979,-122.421242,1
+61, Taylor St, San Francisco, Nob Hill, California,37.791498,-122.411997,0
+62, Jones St, San Francisco, Tenderloin, California,37.787164,-122.413535,1
+63, Leavenworth St, San Francisco, Nob Hill, California,37.79249,-122.41638,0
+64, Hyde St, San Francisco, Russian Hill, California,37.805516,-122.420791,1
+65, Jefferson St, San Francisco, Fisherman\s Wharf, California,37.80757,-122.416254,0
+66, Beach St, San Francisco, Fisherman\s Wharf, California,37.807519,-122.414845,1
+67, The Strip, Las Vegas, The Strip, Nevada,36.114647,-115.172813,0
+68, Harbor Dr, San Diego, Downtown, California,32.710556,-117.166667,1
+69, Pacific Coast Hwy, California, Coastline, California,34.025921,-118.779757,0
+70, Ocean Dr, Miami, South Beach, Florida,25.779306,-80.131127,1
+71, Las Vegas Blvd, Las Vegas, The Strip, Nevada,36.169941,-115.13983,0
+72, Main St, Dallas, Downtown, Texas,32.776665,-96.796989,1
+73, Elm St, Austin, Downtown, Texas,30.267153,-97.74306,0
+74, Broadway, Nashville, Downtown, Tennessee,36.161451,-86.777212,1
+75, Fulton St, New York, Financial District, New York,40.709004,-74.007994,0
+76, Royal St, New Orleans, French Quarter, Louisiana,29.9597,-90.064239,1
+77, King St, Alexandria, Old Town, Virginia,38.805109,-77.047022,0
+78, Westheimer Rd, Houston, Midtown, Texas,29.737259,-95.391342,1
+79, Katy Fwy, Houston, Energy Corridor, Texas,29.786884,-95.626789, 0;
+80, Fremont St, Las Vegas, Downtown, Nevada,36.17027,-115.144403,0
+81, Wall St, New York, Financial District, New York,40.707491,-74.011276,1
+82, King St, Seattle, Pioneer Square, Washington,47.598388,-122.329775,0
+83, Music Row, Nashville, Midtown, Tennessee,36.152667,-86.789383,1
+84, Collins Ave, Miami Beach, South Beach, Florida,25.791469,-80.129027,0
+85, Pine St, Seattle, Downtown, Washington,47.61151,-122.337254,1
+86, The Strip, Las Vegas, The Strip, Nevada,36.114647,-115.172813,0
+87, Ocean Dr, Miami, South Beach, Florida,25.779306,-80.131127,1
+88, Hollywood Blvd, Los Angeles, Hollywood, California,34.101558,-118.340944,0
+89, Main St, Dallas, Downtown, Texas,32.776665,-96.796989,1
+90, Elm St, Austin, Downtown, Texas,30.267153,-97.74306,0
+91, Broadway, Nashville, Downtown, Tennessee,36.161451,-86.777212,1
+92, Fulton St, New York, Financial District, New York,40.709004,-74.007994,0
+93, Royal St, New Orleans, French Quarter, Louisiana,29.9597,-90.064239,1
+94, King St, Alexandria, Old Town, Virginia,38.805109,-77.047022,0
+95, Westheimer Rd, Houston, Midtown, Texas,29.737259,-95.391342,1
+96, Katy Fwy, Houston, Energy Corridor, Texas,29.786884,-95.626789,0
+97, 16th St, Denver, Downtown, Colorado,39.744542,-104.98794,1
+98, Nash St, Raleigh, Downtown, North Carolina,35.77959,-78.638179,0
+99, Boylston St, Boston, Back Bay, Massachusetts,42.349564,-71.081486,1
+100, Lombard St, San Francisco, North Beach, California,37.802139,-122.41874,0
